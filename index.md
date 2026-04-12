@@ -1,2 +1,0 @@
-# ESTUDOS GABRIEL CORREIA DA SILVA
-1. [algoritimo](ALGORITIMOS/Algoritmos.md)
