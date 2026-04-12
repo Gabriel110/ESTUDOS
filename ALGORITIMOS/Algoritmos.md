@@ -5,7 +5,7 @@ Pretendo usar mais de uma linguagem, como:
 * C
 * Python
 * Java/Kotlin
-# CAPITULO 1: Introdução a algoritmos
+# Introdução a algoritmos
 Um algoritmo é uma sequência de passos organizados e lógicos para alcançar um objetivo específico. Esses passos devem
 seguir uma ordem clara, onde cada ação depende da anterior, permitindo resolver um problema ou executar uma tarefa de
 forma estruturada. Por exemplo, imagine que preciso atravessar uma rua movimentada com vários carros. Para realizar
@@ -20,3 +20,5 @@ essa tarefa com segurança, posso seguir o seguinte algoritmo:
 
 Dessa forma, o algoritmo define uma sequência lógica de decisões e ações que ajudam a atingir o objetivo de atravessar a
 rua com segurança.
+
+# Busca binaria
