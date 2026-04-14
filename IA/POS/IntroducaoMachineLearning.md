@@ -24,3 +24,14 @@ aumentando a eficiência em tarefas repetitivas ou complexas.
 * Desejo de sistemas que possam aprender e melhorar
 * Busca por maior eficiência e precisão em análises e previsões
 * Identificação de padrões e tendeências em grandes conjuntos de dados
+
+# Classificação de aprendizado de máquina
+1. Supervisionado:
+   * Classificação
+   * Regreção
+2. Não subervisionado:
+   * Agrupamento
+   * Associação
+3. Reforço:
+   * Positivo
+   * Negativo
