@@ -35,3 +35,8 @@ aumentando a eficiência em tarefas repetitivas ou complexas.
 3. Reforço:
    * Positivo
    * Negativo
+### Aprendizagem supervisionada
+* É um tipo de aprendizado de máquina
+* A partir dos dados de treinamento, o algoritimos aprende a prever a saída para novos dados
+* O algorotimo é treinado com um conjunto de dados rotulado
+* Usada em plicações de classificações e regressão
